@@ -1,6 +1,13 @@
 ﻿# bcurl
 
-A command-line client for **BHTTP/1** — Binary HTTP over TCP. The protocol is defined in [SPEC.md](SPEC.md).
+A command-line **client** for **BHTTP/1** — Binary HTTP over TCP.
+The protocol is defined in [SPEC.md](SPEC.md).
+
+This is one half of a two-person course project.
+The server half (by teammate Sanjay Sagar Reddy) lives at:
+**https://github.com/SanjaySagarReddy/NetworkArchitecture_Project**
+
+Both sides implement the same protocol spec independently and are interoperable.
 
 ## Build
 
